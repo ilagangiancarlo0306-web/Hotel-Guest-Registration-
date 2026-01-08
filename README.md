@@ -19,3 +19,5 @@ FEATURES
 -Demonstrates basic CRUD concepts (Create and Read)
 
 ![Hotel Guest Registration](Screenshot%20(3).png)
+
+http://localhost/hotel_form/index.php
